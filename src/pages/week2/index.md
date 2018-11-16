@@ -37,7 +37,8 @@ Convert app to  ```Styled-Components```, Implement new global style and theme
 ###Back End#
 ####Ticket 1
 Research and implement SRS algorithm
-
+[Github](https://github.com/Lambda-School-Labs/Labs8-SpacedRep/pull/23)
+[Trello](https://trello.com/c/Tv7TFIPL)
 
 ####Ticket 2
 Bug fix introduced with a bad merge  
@@ -45,6 +46,6 @@ Bug fix introduced with a bad merge
 [Trello](https://trello.com/c/Tv7TFIPL)
 
 
-#Detailed Analysis# Pick one of your tickets and provide a detailed analysis of the work you did. This should be approximately ¼ page of text, and at least three screenshots.
+<!-- #Detailed Analysis# Pick one of your tickets and provide a detailed analysis of the work you did. This should be approximately ¼ page of text, and at least three screenshots.
 
-#Part 2 - Milestone Reflections# Put your response to the weekly question and a link to your team journal assignment here.
+#Part 2 - Milestone Reflections# Put your response to the weekly question and a link to your team journal assignment here. -->
